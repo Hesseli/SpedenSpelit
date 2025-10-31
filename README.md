@@ -15,7 +15,6 @@ Klassinen toteutus suomalaisesta "Speden Spelit" -muistipelistä (tunnetaan myö
 - [🎯 Pelin kulku](#-pelin-kulku)
 - [🔑 Huijauskoodi](#-huijauskoodi)
 - [🚀 Käyttöönotto](#-käyttöönotto)
-- [📸 Galleria](#-galleria)
 
 ## ✨ Ominaisuudet
 
@@ -151,12 +150,6 @@ Seuraa [pinien määrityksiä](#-pinien-määritykset) ja kytke komponentit Ardu
 ### 4. 🎮 Pelaa!
 Paina mitä tahansa painiketta aloittaaksesi pelin.
 
-## 📸 Galleria
-
-*Lisää kuvia projektistasi tähän!*
-
 ---
 
 **🎯 Hauskaa pelaamista!** 🚀
-
-> Tehty ❤️ ja Arduino:lla
